@@ -1,5 +1,5 @@
 # smart_diet_planner
-Smart diet planner is a python based program about how a person can choose his fitness goal according to weight loss or Muscle gain program
+Smart diet planner is a python based program about how a person can choose his/her fitness goal according to Weight loss or Muscle gain program
 
 This project was created to practice:
 data cleaning
